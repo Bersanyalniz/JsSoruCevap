@@ -1,34 +1,34 @@
 const quizData = [  
             {  
-            question: "Hangi dil daha eskidir ?",  
-            a: "Java",  
-            b: "C",  
-            c: "Python",  
-            d: "JavaScript",  
+            question: "Hangi Takım daha eskidir ?",  
+            a: "Fenerbahçe",  
+            b: "Beşiktaş",  
+            c: "Galatasaray",  
+            d: "Trabzonspor",  
             correct: "b",  
             },  
             {  
-            question: "CSS'in açılımı nedir ?",  
-            a: "Central Style Sheets",  
-            b: "Cascading Style Sheets",  
-            c: "Cascading Simple Sheets",  
-            d: "Cars SUVs Sailboats",  
+            question: "Tff'in açılımı nedir ?",  
+            a: "Türkiye Finalist Fedarasyonu",  
+            b: "Türkiye Futbol Fedarasyonu",  
+            c: "Tarla Finans Fedarasyonu",  
+            d: "Traktör Finans Fedarasyonu",  
             correct: "b",  
             },  
             {  
-            question: "HTML'in açılımı nedir ?",  
-            a: "Hypertext Markup Language",  
-            b: "Hypertext Markdown Language",  
-            c: "Hyperloop Machine Language",  
-            d: "Helicopters Terminals Motorboats Lamborginis",  
+            question: "Fb'in açılımı nedir ?",  
+            a: "Fenerbahçe",  
+            b: "Galatasaray",  
+            c: "Beşiktaş",  
+            d: "Trabzonspor",  
             correct: "a",  
             },  
             {  
-            question: "Javascript hangi yılda çıkmıştır ?",  
-            a: "1996",  
-            b: "1995",  
+            question: "Fenerbahçe hangi yılda Kurulmuştur ?",  
+            a: "1908",  
+            b: "1907",  
             c: "1994",  
-            d: "none of the above",  
+            d: "Hiçbiri",  
             correct: "b",  
             },  
         ];  
@@ -83,3 +83,4 @@ const quizData = [
                 }  
             }  
         }); 
+        
